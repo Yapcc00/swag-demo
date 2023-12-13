@@ -1,6 +1,6 @@
 # SWAG LABS
 
-Este repositorio contiene pruebas automatizadas para SWAG LABS. Utiliza Serenity BDD con Selenium y se puede configurar para ejecutar pruebas en Firefox utilizando GeckoDriver.
+Este repositorio contiene pruebas automatizadas para SWAG LABS. Utiliza Serenity BDD con Selenium y para las dependencias se esta utilizando maven y se puede configurar para ejecutar pruebas en Firefox utilizando GeckoDriver.
 
 ## Configuración
 
